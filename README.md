@@ -1,4 +1,8 @@
-# docker lookbusy
+# docker-lookbusy [![Docker Image CI](https://github.com/adjscent/docker-lookbusy/actions/workflows/docker-image.yml/badge.svg)](https://github.com/adjscent/docker-lookbusy/actions/workflows/docker-image.yml)
+
+Just another lookbusy docker.
+
+https://hub.docker.com/repository/docker/adjscent/lookbusy/general
 
 ```bash
 docker run -itd --name=lookbusy --restart=always \
